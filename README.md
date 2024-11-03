@@ -15,7 +15,8 @@ A super cool Julia package that lets you share your awesome posts (with images!)
 ## 🔧 Installation
 
 ```julia
-] add LinkedInAPI 
+using Pkg
+Pkg.add(url="https://github.com/JaewooJoung/LinkedInAPI.jl")
 ```
 
 ## 🏃‍♂️ Quick Start
