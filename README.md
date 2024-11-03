@@ -15,7 +15,7 @@ A super cool Julia package that lets you share your awesome posts (with images!)
 ## 🔧 Installation
 
 ```julia
-waiting
+] add LinkedInAPI 
 ```
 
 ## 🏃‍♂️ Quick Start
